@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mati-sz
-- 👀 I’m interested in the computer science application in the financial industry
+- 👀 I’m interested in the computer science applications in the financial industry
 - 🌱 I’m currently pursuing OMSCS at Georgia Tech
 
 <!---
